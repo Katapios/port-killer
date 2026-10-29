@@ -1,0 +1,26 @@
+# Скомпилированные бинарники
+port-killer
+port-killer.exe
+port-killer-mac
+port-killer-linux
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Директории сборки и вендоринга
+bin/
+dist/
+vendor/
+
+# Логи и временные файлы
+*.log
+.DS_Store
+Thumbs.db
+
+# Конфигурации IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
